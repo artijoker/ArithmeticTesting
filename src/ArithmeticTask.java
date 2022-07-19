@@ -2,8 +2,7 @@ enum ArithmeticAction {
     ADD,
     SUBTRACT,
     MULTIPLY,
-    DIVIDE,
-    ASS
+    DIVIDE
 }
 
 public class ArithmeticTask {
